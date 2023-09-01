@@ -8,4 +8,4 @@ to make this program so this is like prototype making notepad program
 
 # Tools and Framework
 - **Programming Language**: Python
-- **Frameework** : Tkinter
+- **Framework** : Tkinter
