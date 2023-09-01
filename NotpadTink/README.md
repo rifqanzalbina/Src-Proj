@@ -20,6 +20,20 @@ notepad, while introducing modern features that cater to today'users
 - Programming language : Python
 - GUI Library : Tkinter, PyQt
 
+
+# How to Start
+<p>
+So basically u must have library that from Technical Details
+that Tkinter or PyQt, but i recommended just using tkinter
+
+So ,i have file that  <br>
+`app.py` and `main.py` <br>
+
+**app.py** is to you guys to modified the app and modifed GUI looks <br>
+**main.py** is just that to execute the app.py <br>
+
+</p>
+
 ## Contributions
 <p>
 The SrcProject repository welcomes contributions from the global community.  
