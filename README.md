@@ -14,6 +14,12 @@ About the Project
 ## Vision
 To revolutionize the way systems operate, making them more efficient, user-friendly, and adaptable to the ever-evolving digital landscape.
 
+## Collaborators
+
+- [Toru0706](https://github.com/Toru0706)
+- [ExNameless](https://github.com/Sasudar)
+
+
 ## Mission
 To address and solve real-world challenges faced by users in today's digital age.
 To continuously innovate and improve, ensuring that our solutions are always at the forefront of technology.
