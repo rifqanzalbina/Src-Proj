@@ -14,20 +14,19 @@ About the Project
 ## Vision
 To revolutionize the way systems operate, making them more efficient, user-friendly, and adaptable to the ever-evolving digital landscape.
 
-## Collaborators
-
-- [Toru0706](https://github.com/Toru0706)
-- [ExNameless](https://github.com/Sasudar)
-
-
 ## Mission
 To address and solve real-world challenges faced by users in today's digital age.
 To continuously innovate and improve, ensuring that our solutions are always at the forefront of technology.
 To foster a community of users and developers who share our passion for creating groundbreaking solutions.
 Getting Started
-To dive into SrcProj, follow our detailed setup guide, which will walk you through the installation and configuration processes. Whether you're looking to contribute or simply utilize our system, we've got you covered.
+To dive into SrcProj, follow our detailed setup guide, which will walk you through the installation and configuration processes. Whether you're looking to contribute 
+or simply utilize our system, we've got you covered.
 
 ## Feedback and Contributions
 Your feedback is invaluable! If you have suggestions, feature requests, or have spotted a bug, please open an issue. If you're looking to contribute, check out our CONTRIBUTING.md guide.
 
 Join us in our journey as we reshape the digital realm, one system at a time.
+
+## Collaborators
+- [Toru0706](https://github.com/Toru0706)
+- [ExNameless](https://github.com/Sasudar)
