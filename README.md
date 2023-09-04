@@ -27,7 +27,7 @@ Your feedback is invaluable! If you have suggestions, feature requests, or have 
 
 Join us in our journey as we reshape the digital realm, one system at a time.
 
-## Collaborators
+## Contributors
 - [Toru0706](https://github.com/Toru0706)
 - [ExNameless](https://github.com/Sasudar)
 - [suandre35](https://github.com/suandre35)
