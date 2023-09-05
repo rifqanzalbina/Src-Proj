@@ -1,8 +1,8 @@
 # Random Quote Generator
 ## Description
-<p>
+
  **RandomQuote** is a simple web application that leverages an API to fetch inspiring quotes from around the globe. This project is designed to provide users with an interactive experience where they can easily obtain a new quote with a single click, all the while enjoying an appealing and responsive design.
-</p>
+
 
 ## Key Features:
 1. **API Integration** : Utilizes a dedicated API to retrieve high-quality, inspiring quotes,
