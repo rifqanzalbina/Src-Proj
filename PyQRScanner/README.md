@@ -26,13 +26,13 @@ with a straightforward and aesthetically pleasing interface.
 
 ## How to run
 - So in this project i have 2 file that <br>
-  `GUI.py`
+  `Guiqr.py`
   and
   `qrcode.py`
 - Those file is GUI and The system
 <br>
 <p>
-"Gui.py" is telling about making GUI desktop app <br>
+"Guiqr.py" is telling about making GUI desktop app <br>
 "qrcode.py" is tell about how the system work <br>  
 </p>
 
