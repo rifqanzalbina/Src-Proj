@@ -30,7 +30,6 @@ with a straightforward and aesthetically pleasing interface.
   and
   `qrcode.py`
 - Those file is GUI and The system
-<br>
 <p>
 "GUIqr.py" is telling about making GUI desktop app <br>
 "qrcode.py" is tell about how the system work <br>  
