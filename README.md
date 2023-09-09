@@ -47,7 +47,7 @@ A big shout-out to our contributors who have been instrumental in building this 
 - [Toru0706](https://github.com/Toru0706) 
 - [ExNameless](https://github.com/Sasudar) 
 - [suandre35](https://github.com/suandre35) 
-- [williamtanuwijaya](https://github.com/williamtanuwijaya?tab=following) 
+- [williamtanuwijaya](https://github.com/williamtanuwijaya) 
 
 ---
 
