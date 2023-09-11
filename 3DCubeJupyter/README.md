@@ -4,7 +4,7 @@
 
 Hello, world! 🌟 Welcome to the `3DCubeJupyter` project! 
 This project is some simple type of making 3DCube with Python and easy coding thiing ,
-you simply can do it !!
+you simply can do it !
 
 ## Code Breakdown
 
