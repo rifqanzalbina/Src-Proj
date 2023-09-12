@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[],
     url='https://github.com/rifqanzalbina/Src-Proj/edit/main/hello_exist/setup.py',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='M Rifqan Zalbina',
+    author_email='zalbinarifqan19@gmail.com',
     description='A simple Python library example'
 )
