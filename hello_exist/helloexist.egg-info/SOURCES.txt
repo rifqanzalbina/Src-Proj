@@ -1,7 +1,0 @@
-setup.py
-helloexist.egg-info/PKG-INFO
-helloexist.egg-info/SOURCES.txt
-helloexist.egg-info/dependency_links.txt
-helloexist.egg-info/top_level.txt
-my_python_module/__init__.py
-my_python_module/core.py
