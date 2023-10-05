@@ -70,5 +70,5 @@ When proposing enhancements:
 
 Thank you for considering contributing to SourcProject. We appreciate your effort and look forward to building a robust and user-friendly system with your help!
 
-**The SourcProject Team**
+- **The SourcProject Team**
 
