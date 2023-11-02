@@ -43,18 +43,17 @@ Join us in this exhilarating journey of reshaping the digital narrative, one pro
 
 A big shout-out to our contributors who have been instrumental in building this platform. Your dedication is the cornerstone of SourcProject's growth and success.
 
-## Some Programming Language We Use
-- Python
-- JavaScript
-- Rust
-- GO
-- Julia
-
 - [Toru0706](https://github.com/Toru0706) 
 - [ExNameless](https://github.com/Sasudar) 
 - [suandre35](https://github.com/suandre35) 
 - [williamtanuwijaya](https://github.com/williamtanuwijaya) 
 
 ---
+
+# Some Programming Language We Use
+- Julia
+- Python
+- JavaScript
+  
 
 Thank you for being a part of SourcProject. Together, we are fostering a culture of collaboration and innovation in the tech community. 🌟
