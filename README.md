@@ -50,7 +50,7 @@ A big shout-out to our contributors who have been instrumental in building this 
 
 ---
 
-# Some Programming Language We Use
+## Programming Language We Use
 - Julia
 - Python
 - JavaScript
