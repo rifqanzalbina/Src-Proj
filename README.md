@@ -1,6 +1,6 @@
 # SourcProject 🌟
 
-![Src](https://github.com/rifqanzalbina/Src-Proj/assets/124742008/6ce35847-c09d-4685-9964-572877827ad3) 
+![Src](https://github.com/rifqanzalbina/Src-Proj/assets/124742008/6ce35847-c09d-4685-9964-572877827ad3)
 ---  
 
 ## 🌟 Introduction 🌟 
