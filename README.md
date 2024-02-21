@@ -54,6 +54,7 @@ A big shout-out to our contributors who have been instrumental in building this 
 - Julia
 - Python
 - JavaScript
+- Golang
   
 
 Thank you for being a part of SourcProject. Together, we are fostering a culture of collaboration and innovation in the tech community. 🌟
